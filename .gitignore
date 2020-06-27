@@ -6,3 +6,5 @@ Gemfile.lock
 .DS_Store
 vendor
 util
+src/00_git-test
+_posts/2020-03-27-git*
