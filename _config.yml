@@ -1,8 +1,8 @@
 title: Git
 author: ingbeeedd
-email: yeongjae8066@daum.net
+email: yeongjae8066@hanmail.net
 description: > # this means to ignore newlines until "show_exerpts:"
-  Git Seminar
+  git-github-training
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -17,7 +17,7 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    github: ingbeeedd/Git-Seminar
+    github: ingbeeedd/git-github-training
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
